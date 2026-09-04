@@ -1,0 +1,13 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "normal",
+			"cullmode" : "nocull",
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "workshop/3619154375/effects/refract",
+			"textures" : [ null, "workshop/3619154375/effects/refractnormal" ]
+		}
+	]
+}

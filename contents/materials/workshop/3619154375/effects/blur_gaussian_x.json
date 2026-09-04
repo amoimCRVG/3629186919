@@ -1,0 +1,12 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "normal",
+			"cullmode" : "nocull",
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "workshop/3619154375/effects/blur_gaussian"
+		}
+	]
+}

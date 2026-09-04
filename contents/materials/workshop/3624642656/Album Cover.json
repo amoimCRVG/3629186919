@@ -1,0 +1,21 @@
+{
+	"passes" : 
+	[
+		{
+			"alphawriting" : "default",
+			"blending" : "translucent",
+			"cullmode" : "nocull",
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "genericimage4",
+			"textures" : [ "workshop/3624642656/Album Cover" ],
+			"usertextures" : 
+			[
+				{
+					"name" : "$mediaThumbnail",
+					"type" : "system"
+				}
+			]
+		}
+	]
+}
