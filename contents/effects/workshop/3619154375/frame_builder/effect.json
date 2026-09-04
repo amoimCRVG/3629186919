@@ -1,0 +1,18 @@
+{
+	"dependencies" : 
+	[
+		"materials/workshop/3619154375/effects/frame_builder.json",
+		"shaders/workshop/3619154375/effects/frame_builder.frag",
+		"shaders/workshop/3619154375/effects/frame_builder.vert"
+	],
+	"group" : "localeffects",
+	"name" : "Frame Builder",
+	"passes" : 
+	[
+		{
+			"material" : "materials/workshop/3619154375/effects/frame_builder.json"
+		}
+	],
+	"replacementkey" : "frame_builder",
+	"version" : 1
+}

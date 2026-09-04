@@ -1,0 +1,18 @@
+{
+	"dependencies" : 
+	[
+		"materials/workshop/3624642656/effects/clipping_mask.json",
+		"shaders/workshop/3624642656/effects/clipping_mask.frag",
+		"shaders/workshop/3624642656/effects/clipping_mask.vert"
+	],
+	"group" : "localeffects",
+	"name" : "ui_editor_properties_clipping_mask",
+	"passes" : 
+	[
+		{
+			"material" : "materials/workshop/3624642656/effects/clipping_mask.json"
+		}
+	],
+	"replacementkey" : "clipping_mask",
+	"version" : 1
+}

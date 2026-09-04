@@ -1,0 +1,26 @@
+{
+	"dependencies" : 
+	[
+		"materials/workshop/3619154375/effects/refract.json",
+		"materials/workshop/3619154375/effects/refractnormal.png",
+		"materials/workshop/3619154375/effects/refractnormal.tex-json",
+		"shaders/workshop/3619154375/effects/refract.frag",
+		"shaders/workshop/3619154375/effects/refract.vert"
+	],
+	"description" : "ui_editor_effect_refract_description",
+	"group" : "distort",
+	"name" : "ui_editor_effect_refract_title",
+	"passes" : 
+	[
+		{
+			"compose" : true,
+			"material" : "materials/util/effectcomposebackground.json"
+		},
+		{
+			"material" : "materials/workshop/3619154375/effects/refract.json"
+		}
+	],
+	"preview" : "preview/project.json",
+	"replacementkey" : "refract",
+	"version" : 1
+}

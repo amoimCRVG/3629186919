@@ -1,0 +1,33 @@
+{
+	"dependencies" : 
+	[
+		"materials/workshop/3625672586/effects/spin.json",
+		"shaders/workshop/3625672586/effects/spin.frag",
+		"shaders/workshop/3625672586/effects/spin.vert"
+	],
+	"description" : "ui_editor_effect_spin_description",
+	"gizmos" : 
+	[
+		{
+			"type" : "EffectSpinUV",
+			"vars" : 
+			{
+				"angle" : "angle",
+				"center" : "center",
+				"ratio" : "ratio",
+				"size" : "size"
+			}
+		}
+	],
+	"group" : "animate",
+	"name" : "ui_editor_effect_spin_title",
+	"passes" : 
+	[
+		{
+			"material" : "materials/workshop/3625672586/effects/spin.json"
+		}
+	],
+	"preview" : "preview/project.json",
+	"replacementkey" : "spin",
+	"version" : 2
+}
